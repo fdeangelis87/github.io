@@ -1,0 +1,207 @@
+Container 'C:\Users\fdean\Desktop\Educational Game\Educational Game.vis'
+-------------------------------------------------------------------------------
+Scenes/First page/First page.png
+Scenes/First page/NewGame.png
+Scenes/First page/Continue.png
+Scenes/First page/Continue_disabled.png
+Scenes/SelectRoom/BG SelectRoom - blur.png
+Scenes/SelectRoom/Choose_a_room.png
+Scenes/AchievementMode.png
+Scenes/UpgradeMode.png
+Interfaces/QuestionButton.png
+Scenes/SelectRoom/Room1_text.png
+Scenes/SelectRoom/Room2_text.png
+Scenes/SelectRoom/Room3_text.png
+Scenes/SelectRoom/Room4_text.png
+Scenes/SelectRoom/Room5_text.png
+Scenes/SelectRoom/Room6_text.png
+Scenes/SelectRoom/Room7_text.png
+Scenes/SelectRoom/Room8_text.png
+Scenes/SelectRoom/Room9_text.png
+Scenes/SelectRoom/BoxToBeCompleted.png
+Scenes/SelectRoom/BoxCompleted.png
+Scenes/Corridor/BG Corridor 1920x1080.png
+Scenes/Corridor/_Assets/Movement sensor lights.png
+Scenes/Corridor/_Assets/Plant.png
+Scenes/Corridor/_Assets/Air leak.png
+Scenes/Corridor/_Assets/Decorative light on.png
+Scenes/Corridor/_Assets/Decorative light off.png
+Scenes/Corridor/_Assets/Incandescent light on 1.png
+Scenes/Corridor/_Assets/Incandescent light on 2.png
+Scenes/Corridor/_Assets/Curtain left.png
+Scenes/Corridor/_Assets/Stairs.png
+Scenes/Corridor/_Assets/Curtain right.png
+Scenes/Corridor/_Assets/Border.png
+Scenes/Corridor/_Assets/Window Left.png
+Scenes/Corridor/_Assets/Window right.png
+Scenes/Living room/BG Living room.png
+Scenes/Living room/_Assets/Overlay.png
+Scenes/Living room/_Assets/Overlay 2.png
+Scenes/Living room/_Assets/Overlay 3.png
+Scenes/Living room/_Assets/Tenda sx aperta.png
+Scenes/Living room/_Assets/Light.png
+Scenes/Living room/_Assets/Luce lampada terra.png
+Scenes/Living room/_Assets/Curtain left closed.png
+Scenes/Living room/_Assets/Tenda dx aperta.png
+Scenes/Living room/_Assets/Curtain right closed.png
+Scenes/Living room/_Assets/Porta aperta.png
+Scenes/Living room/_Assets/Door closed.png
+Scenes/Living room/_Assets/Riquadro porta.png
+Scenes/Living room/_Assets/Dust from conditionair.png
+Scenes/Living room/_Assets/Conditionair with air.png
+Scenes/Living room/_Assets/Conditionair no air.png
+Scenes/Parents bedroom/BG Parents bedroom.png
+Scenes/Parents bedroom/_Assets/Overlay.png
+Scenes/Parents bedroom/_Assets/Overlay chair.png
+Scenes/Parents bedroom/_Assets/Air.png
+Scenes/Parents bedroom/_Assets/Computer.png
+Scenes/Parents bedroom/_Assets/Yellow lights.png
+Scenes/Parents bedroom/_Assets/Blue lights.png
+Scenes/Parents bedroom/_Assets/Fan cover.png
+Scenes/Parents bedroom/_Assets/Fan.png
+Scenes/Parents bedroom/_Assets/Fan base.png
+Scenes/Parents bedroom/_Assets/AC on.png
+Scenes/Parents bedroom/_Assets/AC off.png
+Scenes/Parents bedroom/_Assets/Door closed.png
+Scenes/Sons bedroom/BG Sons bedroom.png
+Scenes/Sons bedroom/_Assets/Lights.png
+Scenes/Sons bedroom/_Assets/Camera.png
+Scenes/Sons bedroom/_Assets/Window closed.png
+Scenes/Sons bedroom/_Assets/Console ON.png
+Scenes/Sons bedroom/_Assets/Console OFF.png
+Scenes/Sons bedroom/_Assets/Porta aperta.png
+Scenes/Sons bedroom/_Assets/Door closed.png
+Scenes/Sons bedroom/_Assets/Clock.png
+Scenes/Sons bedroom/_Assets/Air.png
+Scenes/Bathroom/BG Bathroom.png
+Scenes/Bathroom/_Assets/Waterheater water.png
+Scenes/Bathroom/_Assets/Waterheater.png
+Scenes/Bathroom/_Assets/Tap water.png
+Scenes/Bathroom/_Assets/Bathtub water.png
+Scenes/Garden/BG Garden.png
+Scenes/Garden/_Assets/Lights.png
+Scenes/Garden/_Assets/Smoke.png
+Scenes/Garden/_Assets/Hose.png
+Scenes/Garden/_Assets/Tube.png
+Scenes/Garden/_Assets/Water.png
+Scenes/Garden/_Assets/Water tank.png
+Scenes/Kitchen/BG Kitchen.png
+Scenes/Kitchen/_Assets/AC with air.png
+Scenes/Kitchen/_Assets/AC without air.png
+Scenes/Kitchen/_Assets/Smoke pot.png
+Scenes/Kitchen/_Assets/Water.png
+Scenes/Kitchen/_Assets/Microwave.png
+Scenes/Kitchen/_Assets/Fridge.png
+Scenes/Building/BG Building.png
+Scenes/Building/_Assets/Car.png
+Scenes/Building/_Assets/Solar panel.png
+Scenes/Building/_Assets/Water tank and tube.png
+Scenes/Laundry room/BG Laundry Room.png
+Scenes/Laundry room/_Assets/Overlay.png
+Scenes/Laundry room/_Assets/Washing machine water 1.png
+Scenes/Laundry room/_Assets/Washing machine water 2.png
+Scenes/Laundry room/_Assets/Dryer water 1.png
+Scenes/Laundry room/_Assets/Dryer water 2.png
+Scenes/Laundry room/_Assets/Water tube.png
+Scenes/Laundry room/_Assets/Iron smoke.png
+Scenes/Laundry room/_Assets/Dryer.png
+Scenes/Laundry room/_Assets/Water ground.png
+Scenes/Energy Saving Tips/BG EnergySavingTips.png
+Interfaces/ArrowLeft.png
+Scenes/Energy Saving Tips/PreviousPage.png
+Scenes/Energy Saving Tips/NextPage.png
+Scenes/Energy Saving Tips/20200427 EST 2.png
+Scenes/Energy Saving Tips/20200504 EST 3.png
+Scenes/Energy Saving Tips/20200511 EST 4.png
+Scenes/Energy Saving Tips/20200518 EST 5.png
+Scenes/Energy Saving Tips/20200601 EST 6.png
+Scenes/Energy Saving Tips/20200608 EST 7.png
+Scenes/Energy Saving Tips/20200615 EST 8.png
+Scenes/Energy Saving Tips/20200622 EST 9.png
+Scenes/Energy Saving Tips/20200629 EST 10.png
+Scenes/Energy Saving Tips/20200706 EST 11.png
+Scenes/Energy Saving Tips/20200713 EST 12.png
+Scenes/Energy Saving Tips/20200720 EST 13.png
+Scenes/Energy Saving Tips/20200727 EST 14.png
+Scenes/Energy Saving Tips/20200803 EST 15.png
+Scenes/Energy Saving Tips/20200810 EST 16.png
+Scenes/Energy Saving Tips/20200817 EST 17.png
+Scenes/Energy Saving Tips/20200824 EST 18.png
+Scenes/Energy Saving Tips/20200831 EST 19.png
+Scenes/Energy Saving Tips/20200907 EST 20.png
+Scenes/Energy Saving Tips/20200914 EST 21.png
+Scenes/Energy Saving Tips/20200921 EST 22.png
+Scenes/Energy Saving Tips/20200928 EST 23.png
+Scenes/Energy Saving Tips/20201005 EST 24.png
+Scenes/Energy Saving Tips/20201012 EST 25.png
+Scenes/Energy Saving Tips/20201019 EST 26.png
+Scenes/Energy Saving Tips/20201026 EST 27.png
+Scenes/Energy Saving Tips/20201102 EST 28.png
+Scenes/Energy Saving Tips/20201109 EST 29.png
+Scenes/Energy Saving Tips/20201116 EST 30.png
+Scenes/Energy Saving Tips/20201123 EST 31.png
+Scenes/Energy Saving Tips/20201130 EST 32.png
+Scenes/Energy Saving Tips/20201207 EST 33.png
+Scenes/Energy Saving Tips/20201214 EST 34.png
+Scenes/Energy Saving Tips/20201221 EST 35.png
+Scenes/Energy Saving Tips/20201228 EST 36.png
+Scenes/Energy Saving Tips/20210104 EST 37.png
+Scenes/Energy Saving Tips/20210111 EST 38.png
+Scenes/Energy Saving Tips/20210125 EST 39.png
+Scenes/Energy Saving Tips/20210201 EST 40.png
+Scenes/Energy Saving Tips/20210208 EST 41.png
+Scenes/Energy Saving Tips/20210215 EST 42.png
+Scenes/Energy Saving Tips/20210222 EST 43.png
+Scenes/Energy Saving Tips/20210301 EST 44.png
+Scenes/Energy Saving Tips/20210308 EST 45.png
+Scenes/Energy Saving Tips/20210322 EST 46.png
+Scenes/Energy Saving Tips/20210329 EST 47.png
+Scenes/Energy Saving Tips/20210405 EST 48.png
+Scenes/Energy Saving Tips/20210419 EST 49.png
+Scenes/Energy Saving Tips/20210426 EST 50.png
+Scenes/Energy Saving Tips/20210503 EST 51.png
+Scenes/Energy Saving Tips/20210510 EST 52.png
+Interfaces/Money_small.png
+Interfaces/Money.png
+Interfaces/SavegameIcon.png
+Interfaces/EmptyInterface.png
+Interfaces/Father_1.png
+Interfaces/Mom_1.png
+Interfaces/Son_1.png
+Interfaces/Gallo begin room.png
+Interfaces/Gallo end room.png
+Interfaces/Gallo right answer.png
+Interfaces/Gallo wrong answer.png
+Interfaces/Warning.png
+Interfaces/Box intro scene v2.png
+Interfaces/NextButton active.png
+Interfaces/NextButton not active.png
+Interfaces/Tick.png
+Interfaces/Cross.png
+Interfaces/Box purchase selection.png
+Interfaces/Upgrade_owned.png
+Interfaces/Upgrade_selected.png
+Interfaces/Upgrade_not_selected.png
+Interfaces/Hourglass.png
+Interfaces/QuestionBox v2.png
+Interfaces/BlockingInterface.png
+Interfaces/InfoEnergyRating.png
+Interfaces/StarEnergyRating1.png
+Interfaces/StarEnergyRating2.png
+Interfaces/StarEnergyRating3.png
+Interfaces/StarEnergyRating4.png
+Interfaces/StarEnergyRating5.png
+Fonts/digitalstrip.regular.otf
+Fonts/LuckiestGuy-Regular.ttf
+Cursors/ActiveCursor.png
+Cursors/StandardCursor.png
+Cursors/Cursor - small.png
+Cursors/EmptyCursor.png
+game.veb
+--------------------------------------------------------------------------------
+
+Containers:
+
+
+Educational Game.vis 0 
+
